@@ -1,1 +1,1 @@
-print("This is the alterated massege")
+print("This is the master message")
